@@ -1,0 +1,5 @@
+templates/customizedwalls/images/logo.jpg
+components/com_virtuemart/shop_image/product/CW-ID_2161.jpg
+templates/customizedwalls/images/banner/1-2ZebraCouch.jpg
+components/com_virtuemart/shop_image/product/CW-ID_2167.jpg
+templates/customizedwalls/images/banner/1-4YourTropBeach.jpg

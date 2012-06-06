@@ -1,0 +1,5 @@
+History,144537537979914281,history,${colabName}
+Art,144537537979914282,art,${colabName}
+Design,144537537979914283,design,${colabName}
+Geek,144537537979914284,geek,${colabName}
+DIY,144537537979914285,diy_crafts,${colabName}

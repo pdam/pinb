@@ -1,0 +1,5 @@
+components/com_virtuemart/shop_image/product/CW-ID_1857.jpg
+templates/customizedwalls/images/sp3.jpg
+components/com_virtuemart/shop_image/product/CW-ID_1864.jpg
+templates/customizedwalls/images/stp4.jpg
+components/com_virtuemart/shop_image/product/CW-ID_2080.jpg

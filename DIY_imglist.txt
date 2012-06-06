@@ -1,0 +1,5 @@
+templates/customizedwalls/images/banner/3-2Name-detail-Horses.jpg
+components/com_virtuemart/shop_image/product/CW-ID_1926.jpg
+templates/customizedwalls/images/banner/3-4-ColorChange.jpg 
+components/com_virtuemart/shop_image/product/CW-ID_1849.jpg
+templates/customizedwalls/images/stp2.jpg 
